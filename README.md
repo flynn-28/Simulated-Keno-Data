@@ -1,4 +1,4 @@
-Notebooks explaining code stored in the ``notebooks/`` folder, python source code stored in the ``source/`` folder.
+Notebooks explaining code stored in the ``notebooks/`` folder, python source code stored in the ``source/`` folder, some data stored in ``data/`` folder.
 Requrirements:
 * python
 * pip
